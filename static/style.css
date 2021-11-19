@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code&display=swap');
+*
+* {
+  font-family: 'M Plus 1 Code', sans-serif;
+}
+
+body {
+  background: #0f111a;
+  /* background: linear-gradient(rgba(255,255,255,1) 0%, rgba(231,227,227,1) 50%, rgba(190,190,190,1) 100%); */
+  background-attachment: fixed;
+}
+
+.container {
+  background-color: #ff8d6e;
+  box-shadow: 10px 10px #fcba03;
+  border-radius: 15px;
+  padding: 2%;
+  margin: 10%;
+}
